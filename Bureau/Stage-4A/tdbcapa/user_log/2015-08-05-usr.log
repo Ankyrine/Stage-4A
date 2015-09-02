@@ -1,0 +1,13 @@
+
+2015-08-05-15-56-05 Europe/Berlin
+Modification de la salle : Salle A3 (Site : S1 - Entité : A) par l'utilisateur (testA testA - testA@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='350', room_unusable_area='140', room_baie_area='61.72', nbr_baies_possible='66', nbr_baie_100='10', nbr_baie_75='10', nbr_baie_50='10', nbr_baie_25='10', nbr_baie_0='1', taux_moyen_remplissage='0.61', nbr_total_baie='41', nbr_baies_installable='66', room_usable_power='400', room_used_power='150', room_baie_mean_power='3.66', room_comment='BBBBBBBBBBBa' WHERE room_id='15'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='30' WHERE room_id='15' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='9' WHERE room_id='15' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='15' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='9'

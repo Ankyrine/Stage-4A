@@ -1,0 +1,42 @@
+2015-08-11-10-47-00 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SUM(room_baie_area) AS room_baie_area FROM rooms' at line 1' in /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php:8
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php(8): PDOStatement->execute()
+#1 /opt/lampp/htdocs/Stage_4A/www/histographe.php(22): require('/opt/lampp/htdo...')
+#2 {main}
+
+2015-08-11-10-47-53 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SUM(room_baie_area) AS room_baie_area FROM rooms' at line 1' in /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php:8
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php(8): PDOStatement->execute()
+#1 /opt/lampp/htdocs/Stage_4A/www/histographe.php(22): require('/opt/lampp/htdo...')
+#2 {main}
+
+2015-08-11-10-49-19 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SUM(room_baie_area) AS room_baie_area FROM rooms' at line 1' in /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php:8
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php(8): PDOStatement->execute()
+#1 /opt/lampp/htdocs/Stage_4A/www/histographe.php(22): require('/opt/lampp/htdo...')
+#2 {main}
+
+2015-08-11-10-51-17 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stage_4A.roomss' doesn't exist' in /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php:8
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php(8): PDOStatement->execute()
+#1 /opt/lampp/htdocs/Stage_4A/www/histographe.php(22): require('/opt/lampp/htdo...')
+#2 {main}
+
+2015-08-11-10-51-38 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'stage_4A.roomss' doesn't exist' in /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php:8
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/render_graph/rds_graph_render.php(8): PDOStatement->execute()
+#1 /opt/lampp/htdocs/Stage_4A/www/histographe.php(22): require('/opt/lampp/htdo...')
+#2 {main}
+
+2015-08-11-14-32-53 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /opt/lampp/htdocs/Stage_4A/www/archivages/archivage.php:24
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/archivages/archivage.php(24): PDOStatement->execute(Array)
+#1 {main}
+2015-08-11-16-35-01 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'archives_room_surface_utile' in 'field list'' in /opt/lampp/htdocs/Stage_4A/www/archivages/archivage.php:24
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/archivages/archivage.php(24): PDOStatement->execute(Array)
+#1 {main}
+2015-08-11-16-35-04 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'archives_room_surface_utile' in 'field list'' in /opt/lampp/htdocs/Stage_4A/www/archivages/archivage.php:24
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/archivages/archivage.php(24): PDOStatement->execute(Array)
+#1 {main}

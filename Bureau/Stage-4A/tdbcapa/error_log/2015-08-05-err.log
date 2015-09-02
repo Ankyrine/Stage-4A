@@ -1,0 +1,18 @@
+2015-08-05-16-05-14 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /opt/lampp/htdocs/Stage_4A/www/mysql/mysql_connect.php:5
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/mysql/mysql_connect.php(5): PDO->__construct('mysql:host=loca...', 'root', 'a')
+#1 /opt/lampp/htdocs/Stage_4A/www/session.php(3): require('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/Stage_4A/www/manage_rooms.php(1): require('/opt/lampp/htdo...')
+#3 {main}
+
+2015-08-05-16-08-05 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /opt/lampp/htdocs/Stage_4A/www/archivages/archivage.php:6
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/archivages/archivage.php(6): PDO->__construct('mysql:host=loca...', 'root', 'a')
+#1 {main}
+2015-08-05-16-08-45 Europe/Berlin - exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /opt/lampp/htdocs/Stage_4A/www/mysql/mysql_connect.php:5
+Stack trace:
+#0 /opt/lampp/htdocs/Stage_4A/www/mysql/mysql_connect.php(5): PDO->__construct('mysql:host=loca...', 'root', 'a')
+#1 /opt/lampp/htdocs/Stage_4A/www/session.php(3): require('/opt/lampp/htdo...')
+#2 /opt/lampp/htdocs/Stage_4A/www/index.php(2): require('/opt/lampp/htdo...')
+#3 {main}
+

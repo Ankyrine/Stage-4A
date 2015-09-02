@@ -1,0 +1,169 @@
+
+2015-08-10-13-23-06 Europe/Berlin
+Modification de la salle : Salle B4 (Site : S4 - Entité : B) par l'utilisateur (TestB TestB - testB@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='400', room_unusable_area='100', room_baie_area='298.24', nbr_baies_possible='0', nbr_baie_100='76', nbr_baie_75='20', nbr_baie_50='20', nbr_baie_25='10', nbr_baie_0='10', taux_moyen_remplissage='0.76', nbr_total_baie='136', nbr_baies_installable='0', room_usable_power='600', room_used_power='250', room_baie_mean_power='1.84', room_comment='' WHERE room_id='23'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='80' WHERE room_id='23' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='56' WHERE room_id='23' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='9'
+
+2015-08-10-13-24-24 Europe/Berlin
+Modification de la salle : Salle B4 (Site : S4 - Entité : B) par l'utilisateur (TestB TestB - testB@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='400', room_unusable_area='100', room_baie_area='172.8', nbr_baies_possible='56', nbr_baie_100='20', nbr_baie_75='20', nbr_baie_50='20', nbr_baie_25='10', nbr_baie_0='10', taux_moyen_remplissage='0.59', nbr_total_baie='80', nbr_baies_installable='56', room_usable_power='600', room_used_power='250', room_baie_mean_power='3.13', room_comment='' WHERE room_id='23'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='80' WHERE room_id='23' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='9'
+
+2015-08-10-15-49-00 Europe/Berlin
+Modification de la salle : Salle A3 (Site : S3 - Entité : B) par l'utilisateur (TestB TestB - testB@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='150', room_unusable_area='50', room_baie_area='70.8', nbr_baies_possible='13', nbr_baie_100='10', nbr_baie_75='5', nbr_baie_50='5', nbr_baie_25='10', nbr_baie_0='6', taux_moyen_remplissage='0.52', nbr_total_baie='36', nbr_baies_installable='13', room_usable_power='200', room_used_power='100', room_baie_mean_power='2.78', room_comment='' WHERE room_id='17'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='1' WHERE room_id='17' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='17' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='6' WHERE room_id='17' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='10' WHERE room_id='17' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='9' WHERE room_id='17' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='17' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='17' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='17' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='8' WHERE room_id='17' AND baie_id='9'
+
+2015-08-10-15-49-06 Europe/Berlin
+Modification de la salle : Salle B3 (Site : S3 - Entité : B) par l'utilisateur (TestB TestB - testB@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='150', room_unusable_area='50', room_baie_area='64.88', nbr_baies_possible='15', nbr_baie_100='10', nbr_baie_75='10', nbr_baie_50='10', nbr_baie_25='10', nbr_baie_0='4', taux_moyen_remplissage='0.57', nbr_total_baie='44', nbr_baies_installable='15', room_usable_power='220', room_used_power='70', room_baie_mean_power='1.59', room_comment='' WHERE room_id='18'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='5' WHERE room_id='18' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='5' WHERE room_id='18' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='1' WHERE room_id='18' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='33' WHERE room_id='18' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='18' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='18' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='18' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='18' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='18' AND baie_id='9'
+
+2015-08-10-15-49-13 Europe/Berlin
+Modification de la salle : Salle C3 (Site : S3 - Entité : B) par l'utilisateur (TestB TestB - testB@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='70', room_unusable_area='50', room_baie_area='18.36', nbr_baies_possible='0', nbr_baie_100='5', nbr_baie_75='5', nbr_baie_50='0', nbr_baie_25='0', nbr_baie_0='2', taux_moyen_remplissage='0.73', nbr_total_baie='12', nbr_baies_installable='0', room_usable_power='150', room_used_power='20', room_baie_mean_power='1.67', room_comment='' WHERE room_id='19'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='1' WHERE room_id='19' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='19' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='19' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='6' WHERE room_id='19' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='3' WHERE room_id='19' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='19' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='19' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='19' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='19' AND baie_id='9'
+
+2015-08-10-15-49-17 Europe/Berlin
+Modification de la salle : Salle D3 (Site : S3 - Entité : B) par l'utilisateur (TestB TestB - testB@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='75', room_unusable_area='20', room_baie_area='39', nbr_baies_possible='7', nbr_baie_100='10', nbr_baie_75='10', nbr_baie_50='2', nbr_baie_25='2', nbr_baie_0='2', taux_moyen_remplissage='0.73', nbr_total_baie='26', nbr_baies_installable='7', room_usable_power='450', room_used_power='20', room_baie_mean_power='0.77', room_comment='' WHERE room_id='20'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='20' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='20' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='20' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='20' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='26' WHERE room_id='20' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='20' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='20' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='20' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='20' AND baie_id='9'
+
+2015-08-10-15-49-22 Europe/Berlin
+Modification de la salle : Salle E3 (Site : S3 - Entité : B) par l'utilisateur (TestB TestB - testB@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='75', room_unusable_area='0', room_baie_area='0', nbr_baies_possible='33', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='0', nbr_baie_25='0', nbr_baie_0='0', taux_moyen_remplissage='0', nbr_total_baie='0', nbr_baies_installable='0', room_usable_power='0', room_used_power='0', room_baie_mean_power='0', room_comment='&lt;script&gt;alert('Hello world');&lt;/script&gt;' WHERE room_id='21'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='21' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='21' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='21' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='21' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='21' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='21' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='21' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='21' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='21' AND baie_id='9'
+
+2015-08-10-15-49-27 Europe/Berlin
+Modification de la salle : Salle A4 (Site : S4 - Entité : B) par l'utilisateur (TestB TestB - testB@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='400', room_unusable_area='100', room_baie_area='257.08', nbr_baies_possible='19', nbr_baie_100='30', nbr_baie_75='20', nbr_baie_50='20', nbr_baie_25='40', nbr_baie_0='14', taux_moyen_remplissage='0.52', nbr_total_baie='124', nbr_baies_installable='19', room_usable_power='600', room_used_power='250', room_baie_mean_power='2.02', room_comment='' WHERE room_id='22'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='22' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='80' WHERE room_id='22' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='8' WHERE room_id='22' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='22' WHERE room_id='22' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='3' WHERE room_id='22' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='22' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='22' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='22' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='9' WHERE room_id='22' AND baie_id='9'
+
+2015-08-10-15-49-32 Europe/Berlin
+Modification de la salle : Salle B4 (Site : S4 - Entité : B) par l'utilisateur (TestB TestB - testB@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='400', room_unusable_area='100', room_baie_area='172.8', nbr_baies_possible='56', nbr_baie_100='20', nbr_baie_75='20', nbr_baie_50='20', nbr_baie_25='10', nbr_baie_0='10', taux_moyen_remplissage='0.59', nbr_total_baie='80', nbr_baies_installable='56', room_usable_power='600', room_used_power='250', room_baie_mean_power='3.13', room_comment='' WHERE room_id='23'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='80' WHERE room_id='23' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='23' AND baie_id='9'
+
+2015-08-10-15-49-42 Europe/Berlin
+Modification de la salle : Salle A1 (Site : S1 - Entité : A) par l'utilisateur (testA testA - testA@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='400', room_unusable_area='100', room_baie_area='108.44', nbr_baies_possible='85', nbr_baie_100='20', nbr_baie_75='10', nbr_baie_50='10', nbr_baie_25='10', nbr_baie_0='21', taux_moyen_remplissage='0.49', nbr_total_baie='71', nbr_baies_installable='23', room_usable_power='400', room_used_power='300', room_baie_mean_power='4.23', room_comment='Rajoazdazqs' WHERE room_id='13'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='50' WHERE room_id='13' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='20' WHERE room_id='13' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='1' WHERE room_id='13' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='13' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='13' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='13' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='13' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='13' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='13' AND baie_id='9'
+
+2015-08-10-15-49-47 Europe/Berlin
+Modification de la salle : Salle A2 (Site : S1 - Entité : A) par l'utilisateur (testA testA - testA@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='100', room_unusable_area='50', room_baie_area='43.8', nbr_baies_possible='2', nbr_baie_100='5', nbr_baie_75='5', nbr_baie_50='5', nbr_baie_25='5', nbr_baie_0='6', taux_moyen_remplissage='0.48', nbr_total_baie='26', nbr_baies_installable='2', room_usable_power='400', room_used_power='100', room_baie_mean_power='3.85', room_comment='AABBAB' WHERE room_id='14'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='20' WHERE room_id='14' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='14' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='14' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='14' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='14' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='14' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='14' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='14' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='6' WHERE room_id='14' AND baie_id='9'
+
+2015-08-10-15-49-52 Europe/Berlin
+Modification de la salle : Salle A3 (Site : S1 - Entité : A) par l'utilisateur (testA testA - testA@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='350', room_unusable_area='140', room_baie_area='61.72', nbr_baies_possible='66', nbr_baie_100='10', nbr_baie_75='10', nbr_baie_50='10', nbr_baie_25='10', nbr_baie_0='1', taux_moyen_remplissage='0.61', nbr_total_baie='41', nbr_baies_installable='66', room_usable_power='400', room_used_power='150', room_baie_mean_power='3.66', room_comment='BBBBBBBBBBBa' WHERE room_id='15'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='30' WHERE room_id='15' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='9' WHERE room_id='15' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='15' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='15' AND baie_id='9'
+
+2015-08-10-15-49-57 Europe/Berlin
+Modification de la salle : Salle A2 (Site : S2 - Entité : A) par l'utilisateur (testA testA - testA@test.test)
+Modification effectuée : UPDATE rooms SET room_total_area='400', room_unusable_area='150', room_baie_area='93.16', nbr_baies_possible='70', nbr_baie_100='45', nbr_baie_75='10', nbr_baie_50='2', nbr_baie_25='5', nbr_baie_0='0', taux_moyen_remplissage='0.88', nbr_total_baie='62', nbr_baies_installable='6', room_usable_power='500', room_used_power='450', room_baie_mean_power='7.26', room_comment='' OR 1=1' WHERE room_id='16'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='50' WHERE room_id='16' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='16' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='16' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='16' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='16' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='16' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='16' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='16' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='6' WHERE room_id='16' AND baie_id='9'

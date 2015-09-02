@@ -1,0 +1,156 @@
+
+2015-08-25-15-18-39 Europe/Berlin
+Modification de la salle : Bayard (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='75', room_unusable_area='0', room_baie_area='0', nbr_baies_possible='33', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='0', nbr_baie_25='0', nbr_baie_0='0', taux_moyen_remplissage='0', nbr_total_baie='0', nbr_baies_installable='0', room_usable_power='0', room_used_power='0', room_baie_mean_power='0', room_comment='Salle sans puissance &eacute;lectrique actuellement' WHERE room_id='32'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('32', '1', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('32', '2', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('32', '3', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('32', '4', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('32', '5', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('32', '6', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('32', '7', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('32', '8', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('32', '9', '0'
+
+2015-08-25-15-20-09 Europe/Berlin
+Modification de la salle : Langres (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='78', room_unusable_area='50', room_baie_area='21.36', nbr_baies_possible='2', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='14', nbr_baie_25='0', nbr_baie_0='0', taux_moyen_remplissage='0.50', nbr_total_baie='14', nbr_baies_installable='2', room_usable_power='100', room_used_power='46', room_baie_mean_power='3.29', room_comment='' WHERE room_id='30'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('30', '1', '1'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('30', '2', '2'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('30', '3', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('30', '4', '6'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('30', '5', '5'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('30', '6', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('30', '7', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('30', '8', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('30', '9', '0'
+
+2015-08-25-15-22-09 Europe/Berlin
+Modification de la salle : Barroise (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='155', room_unusable_area='72', room_baie_area='64.88', nbr_baies_possible='8', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='44', nbr_baie_25='0', nbr_baie_0='0', taux_moyen_remplissage='0.50', nbr_total_baie='44', nbr_baies_installable='8', room_usable_power='80', room_used_power='32', room_baie_mean_power='0.73', room_comment='' WHERE room_id='29'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('29', '1', '5'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('29', '2', '5'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('29', '3', '1'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('29', '4', '33'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('29', '5', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('29', '6', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('29', '7', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('29', '8', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('29', '9', '0'
+
+2015-08-25-15-23-34 Europe/Berlin
+Modification de la salle : Lamarche (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='164', room_unusable_area='74', room_baie_area='70.8', nbr_baies_possible='8', nbr_baie_100='8', nbr_baie_75='28', nbr_baie_50='0', nbr_baie_25='0', nbr_baie_0='0', taux_moyen_remplissage='0.81', nbr_total_baie='36', nbr_baies_installable='8', room_usable_power='150', room_used_power='84', room_baie_mean_power='2.33', room_comment='' WHERE room_id='28'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('28', '1', '1'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('28', '2', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('28', '3', '6'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('28', '4', '10'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('28', '5', '9'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('28', '6', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('28', '7', '2'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('28', '8', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('28', '9', '8'
+
+2015-08-25-15-25-48 Europe/Berlin
+Modification de la salle : Chambaran (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='75', room_unusable_area='0', room_baie_area='39', nbr_baies_possible='16', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='2', nbr_baie_25='0', nbr_baie_0='24', taux_moyen_remplissage='0.04', nbr_total_baie='26', nbr_baies_installable='16', room_usable_power='260', room_used_power='3', room_baie_mean_power='0.12', room_comment='' WHERE room_id='31'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('31', '1', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('31', '2', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('31', '3', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('31', '4', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('31', '5', '26'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('31', '6', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('31', '7', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('31', '8', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('31', '9', '0'
+
+2015-08-25-15-26-50 Europe/Berlin
+Modification de la salle : Chambaran (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='75', room_unusable_area='35', room_baie_area='39', nbr_baies_possible='0', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='2', nbr_baie_25='0', nbr_baie_0='24', taux_moyen_remplissage='0.04', nbr_total_baie='26', nbr_baies_installable='0', room_usable_power='260', room_used_power='3', room_baie_mean_power='0.12', room_comment='' WHERE room_id='31'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='26' WHERE room_id='31' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='9'
+
+2015-08-25-15-27-52 Europe/Berlin
+Modification de la salle : Chambaran (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='75', room_unusable_area='35', room_baie_area='39', nbr_baies_possible='0', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='2', nbr_baie_25='0', nbr_baie_0='24', taux_moyen_remplissage='0.04', nbr_total_baie='26', nbr_baies_installable='0', room_usable_power='260', room_used_power='3', room_baie_mean_power='0.12', room_comment='' WHERE room_id='31'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='26' WHERE room_id='31' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='9'
+
+2015-08-25-15-29-07 Europe/Berlin
+Modification de la salle : Lamarche (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='164', room_unusable_area='74', room_baie_area='70.8', nbr_baies_possible='8', nbr_baie_100='8', nbr_baie_75='28', nbr_baie_50='0', nbr_baie_25='0', nbr_baie_0='0', taux_moyen_remplissage='0.81', nbr_total_baie='36', nbr_baies_installable='8', room_usable_power='150', room_used_power='84', room_baie_mean_power='2.33', room_comment='Salle d&eacute;di&eacute;e &agrave; la S&eacute;curit&eacute; Int&eacute;rieure' WHERE room_id='28'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='1' WHERE room_id='28' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='28' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='6' WHERE room_id='28' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='10' WHERE room_id='28' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='9' WHERE room_id='28' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='28' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='28' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='28' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='8' WHERE room_id='28' AND baie_id='9'
+
+2015-08-25-15-29-50 Europe/Berlin
+Modification de la salle : Langres (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='78', room_unusable_area='50', room_baie_area='21.36', nbr_baies_possible='2', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='14', nbr_baie_25='0', nbr_baie_0='0', taux_moyen_remplissage='0.50', nbr_total_baie='14', nbr_baies_installable='2', room_usable_power='100', room_used_power='46', room_baie_mean_power='3.29', room_comment='Salle d&eacute;di&eacute;e &agrave; l'interminist&eacute;riel' WHERE room_id='30'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='1' WHERE room_id='30' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='2' WHERE room_id='30' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='30' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='6' WHERE room_id='30' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='5' WHERE room_id='30' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='30' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='30' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='30' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='30' AND baie_id='9'
+
+2015-08-25-15-30-21 Europe/Berlin
+Modification de la salle : Chambaran (Site : SPIR - Entité : STIG) par l'utilisateur (Test STIG - stig@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='75', room_unusable_area='35', room_baie_area='39', nbr_baies_possible='0', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='2', nbr_baie_25='0', nbr_baie_0='24', taux_moyen_remplissage='0.04', nbr_total_baie='26', nbr_baies_installable='0', room_usable_power='260', room_used_power='3', room_baie_mean_power='0.12', room_comment='Salle d&eacute;di&eacute; au Cube S&eacute;curit&eacute; Int&eacute;rieure' WHERE room_id='31'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='1'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='2'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='3'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='4'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='26' WHERE room_id='31' AND baie_id='5'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='6'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='7'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='8'
+Modification effectuée : UPDATE salle_possede SET nbr_baie='0' WHERE room_id='31' AND baie_id='9'
+
+2015-08-25-15-46-43 Europe/Berlin
+Modification de la salle : SIL 1 (Site : SIL - Entité : DSIC) par l'utilisateur (Test DSIC - dsic@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='450', room_unusable_area='160', room_baie_area='153.8', nbr_baies_possible='60', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='107', nbr_baie_25='0', nbr_baie_0='0', taux_moyen_remplissage='0.50', nbr_total_baie='107', nbr_baies_installable='9', room_usable_power='288', room_used_power='264', room_baie_mean_power='2.47', room_comment='' WHERE room_id='24'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('24', '1', '86'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('24', '2', '20'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('24', '3', '1'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('24', '4', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('24', '5', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('24', '6', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('24', '7', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('24', '8', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('24', '9', '0'
+
+2015-08-25-16-30-54 Europe/Berlin
+Modification de la salle : SIL 3 (Site : SIL - Entité : DSIC) par l'utilisateur (Test DSIC - dsic@test.fr)
+Modification effectuée : UPDATE rooms SET room_total_area='350', room_unusable_area='140', room_baie_area='111.9', nbr_baies_possible='43', nbr_baie_100='0', nbr_baie_75='0', nbr_baie_50='70', nbr_baie_25='0', nbr_baie_0='0', taux_moyen_remplissage='0.50', nbr_total_baie='70', nbr_baies_installable='40', room_usable_power='160', room_used_power='101', room_baie_mean_power='1.44', room_comment='' WHERE room_id='26'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('26', '1', '45'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('26', '2', '10'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('26', '3', '15'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('26', '4', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('26', '5', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('26', '6', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('26', '7', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('26', '8', '0'
+Modification effectuée : INSERT INTO salle_possede (room_id, baie_id, nbr_baie) VALUES ('26', '9', '0'

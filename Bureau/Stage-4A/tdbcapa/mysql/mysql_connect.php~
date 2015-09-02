@@ -1,0 +1,16 @@
+<?php
+
+try {
+
+	$db = new PDO('mysql:host=10.0.0.12;dbname=tdbcapa', 'tdb_bd', 'Q2aZvhr5bzJYTQ3Y'); // Création de l'objet PDO
+	$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+}
+
+catch(Exception $e) { // Catch des erreures de connection à la base de donnée
+
+	require('error_log.php');
+	$db = null;
+}
+
+?>
+

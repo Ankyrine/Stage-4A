@@ -1,0 +1,1 @@
+0 0 1 * * cd /opt/lampp/htdocs/Stage_4A/www/archivages ; php -f /archivage.php >> cronlog.txt ; echo "Tache automatique effectuee le :" >> cronlog.txt ; date >> cronlog.txt

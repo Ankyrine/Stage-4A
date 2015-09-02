@@ -1,0 +1,360 @@
+/* Définition des polices personnalisées */
+
+/* Couleurs des liens de navigation */
+a:link {color: #c8c8c8;}
+a:visited {color: #c8c8c8;}
+a:hover {color: #c8c8c8;}
+a:active {color: #c8c8c8;}
+
+/* Elements principaux de la page */
+body
+{
+	background-color: #272b30;
+	font-family: "Liberation Sans", Arial, sans-serif;
+	font-size: 15px;
+	color: #c8c8c8;
+}
+
+body_content
+{
+	text-align: center;
+	background-color: #272b30;
+	font-family: "Liberation Sans", Arial, sans-serif;
+	font-size: 15px;
+	color: #c8c8c8;
+}
+
+#bloc_page
+{
+	width: 100%;
+	margin: auto;
+}
+
+/* Header */
+header
+{
+	border-radius: 5px;
+	padding: 5px;
+	margin-bottom: 5px;
+	background-color: #7a8288;
+}
+#titre_principal
+{
+	display: inline-block;
+}
+
+header h1
+{
+	font-family: "Liberation Sans", Arial, sans-serif;
+	/*font-size: ; */
+	font-weight: normal;
+}
+
+#logo, header h1
+{
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+header h2
+{
+	font-family: "Liberation Sans", Arial, sans-serif;
+	/*font-size: ; */
+	font-weight: normal;
+}
+
+/* nav */
+
+nav /* fil de navigation */
+{
+    display: inline-block;
+	 width: 10%; /* largeur */
+	 height: inherit; /* hauteur */
+    background-color: #7a8288;
+	border-radius: 5px;
+    padding: 5px;
+	text-align: left;
+	vertical-align: top;
+	margin-right: 10px;
+}
+
+nav ul
+{
+	margin: 0; /*marges extérieures à 0*/
+	padding: 0; /*marges intérieures à 0*/
+	padding-left: 5px;
+	list-style-type: none; /* style des tirets avant le texte */
+}
+
+nav li
+{
+
+}
+
+nav a
+{
+
+}
+
+/* Bannière */
+
+
+/* Corps */
+section
+{
+	display: inline-block;
+	vertical-align: top;
+	width: 85%;
+}
+
+section h1
+{
+	font-family: "Liberation Sans", Arial, sans-serif;
+	/*font-size: ; */
+	/*font-weight: normal; */
+}
+
+section h2
+{
+	font-family: "Liberation Sans", Arial, sans-serif;
+	font-size: 18px ;
+	font-weight: normal;
+}
+
+article, aside
+{
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 5px;
+}
+
+article
+{
+	width: 75%;
+	padding: 5px;
+	margin-right: 10px;
+}
+
+aside
+{
+	position: relative;
+	width: 20%;
+	background-color: #778899;
+	border-radius: 5px;
+	padding: 5px;
+	color: #edf4f4;
+	margin-right: 5px;
+	font-size: 0.9em;
+	opacity: 0.5;
+}
+
+/* Tableaux */
+table
+{
+    width: 100%;  /* Largeur dynamique */
+    text-align: center; /* contenu centré */
+    margin: left;  /* tableau à gauche */
+}
+
+.table_2 table
+{
+    text-align: left; /* contenu centré */
+    border: 1px dashed #edf4f4; /* couleur et dimension de la bordure du tableau */
+    border-collapse: collapse; /* les cellule sont collées */
+}
+
+.table table
+{
+    text-align: center; /* contenu centré */
+    border: 1px dashed #edf4f4; /* couleur et dimension de la bordure du tableau */
+    border-collapse: collapse; /* les cellule sont collées */
+}
+
+/* Titre du tableau */
+caption
+{
+	text-align: left;
+	color="#8470FF";
+}
+            
+/* Les lignes du tableau */
+/* tête et pied du tableau */
+.table th
+{ 
+	border: 1px solid #edf4f4;
+	background-color: #1b2020; /* Un gris trés foncé */ 
+	
+}
+/* lignes paires du tableau */
+.table tr:nth-child(even)
+{ 
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+background-color: #454a4a; /* Un gris */ 
+}
+        
+/* Les lignes impaires d'un tableau statique */
+.table tr:nth-child(odd)
+{ 
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+background-color: #7d8484; /* Un autre gris plus clair */
+}
+/* Lignes paires et impaires d'un tableau dynamique */
+.table tr.pair
+{
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+background-color: #454a4a; /* Un gris */ 
+}
+.table tr.impair
+{
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+background-color: #7d8484; /* Un autre gris plus clair */
+}
+
+/* cases du tableau */
+.table td
+{
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+
+}/* Les lignes du tableau */
+/* tête et pied du tableau */
+.table_2 th
+{ 
+	border: 1px solid #edf4f4;
+	background-color: #1b2020; /* Un gris trés foncé */ 
+	
+}
+/* lignes paires du tableau */
+.table_2 tr:nth-child(even)
+{ 
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+background-color: #454a4a; /* Un gris */ 
+}
+        
+/* Les lignes impaires d'un tableau statique */
+.table_2 tr:nth-child(odd)
+{ 
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+background-color: #7d8484; /* Un autre gris plus clair */
+}
+/* Lignes paires et impaires d'un tableau dynamique */
+.table_2 tr.pair
+{
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+background-color: #454a4a; /* Un gris */ 
+}
+.table_2 tr.impair
+{
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+background-color: #7d8484; /* Un autre gris plus clair */
+}
+
+/* cases du tableau */
+.table_2 td
+{
+border-width: 1px;
+border-style: solid;
+border-color #edf4f4;
+}
+
+/* Form */
+label
+{
+	margin-top: 10px;
+	/* display: block; */
+	float: left;
+	width: 250px;
+}
+label [type=radio]
+{
+	width: 20px;
+}
+input
+{
+	margin-top: 10px;
+	margin-left: 5px;
+}
+input [type=radio]
+{
+	float: left;
+	clear: none;
+	margin: 2px 0 0 2px;
+}
+input [type=number]
+{
+	
+}
+
+select
+{
+	margin-top: 10px;
+}
+
+
+/* Footer */
+footer
+{
+	border-radius: 5px;
+	padding: 5px;
+	margin-top: 5px;
+	background-color: #7a8288;
+}
+
+.top_information {
+
+	border-radius: 5px;
+	padding: 5px;
+	margin-bottom: 5px;
+	background-color: #7a8288;
+}
+
+.footer
+{
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 5px;
+	background-color: #7a8288;
+}
+
+.container p 
+{
+	text-align: center;
+}
+
+.bdd_status img 
+{
+	float: left;
+}
+
+label
+{
+	width: 200px; /* Cette largeur sert d’exemple, vous pouvez la modifier si vous voulez. */
+	display: block;
+}
+
+.manage label
+{
+	width: 300px; /* Cette largeur sert d’exemple, vous pouvez la modifier si vous voulez. */
+	display: block;
+}
+
+.marge {
+	margin-left: 1em;
+}
